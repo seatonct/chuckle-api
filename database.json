@@ -24,6 +24,62 @@
       "id": 5,
       "text": "I failed math so many times at school, I can’t even count",
       "told": true
+    },
+    {
+      "text": "Did you hear about the man who was afraid of negative integers? He'd stop at nothing to avoid them.",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "What did the nut saying while chasing another nut? I'm a cashew!",
+      "told": false,
+      "id": 7
+    },
+
+    {
+      "text": "I'm afraid for the calendar. Its days are numbered.",
+      "told": false,
+      "id": 12
+    },
+    {
+      "text": "My wife said I should do lunges to stay in shape. That would be a big step forward.",
+      "told": false,
+      "id": 13
+    },
+    {
+      "text": "Why do fathers take an extra pair of socks when they go golfing?\" \"In case they get a hole in one!",
+      "told": false,
+      "id": 14
+    },
+    {
+      "text": "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.",
+      "told": false,
+      "id": 15
+    },
+    {
+      "text": "What do a tick and the Eiffel Tower have in common?\" \"They're both Paris sites.",
+      "told": false,
+      "id": 16
+    },
+    {
+      "text": "I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along.",
+      "told": false,
+      "id": 17
+    },
+    {
+      "text": "I only know 25 letters of the alphabet. I don't know y.",
+      "told": false,
+      "id": 18
+    },
+    {
+      "text": "How does the moon cut his hair?\" \"Eclipse it.",
+      "told": false,
+      "id": 19
+    },
+    {
+      "text": "I asked my dog what's two minus two. He said nothing.",
+      "told": false,
+      "id": 20
     }
   ]
 }
